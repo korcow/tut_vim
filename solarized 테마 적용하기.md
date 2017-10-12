@@ -12,12 +12,12 @@ $./install.sh
 Please select a color scheme:
 1) dark
 2) dark_alternative
-3) light
+3) light  
 #? 1
 
 프로파일 선택: 1번을 선택
 Please select a Gnome Terminal profile:
-1) 이름 없음
+1) 이름 없음  
 #? 1
 
 You have selected:
@@ -36,7 +36,7 @@ A dircolors adapted to solarized can be automatically downloaded.
 
 2) [DEFAULT] I don't need any dircolors.
 
-디렉토리및파일 색상 변경을 설치하겠냐고 물으면 2번을 눌러 설치 안함을 선택.
+디렉토리및파일 색상 변경을 설치하겠냐고 물으면 2번을 눌러 설치 안함을 선택.  
 Enter your choice : [2] 2
 
 ---
