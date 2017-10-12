@@ -7,28 +7,28 @@ $git clone https://github.com/sigurdga/gnome-terminal-colors-solarized.git
 $cd gnome-terminal-colors-solarized
 $./install.sh
 ```
-그럼 다음과 같은 순서 대로 물어 물어 옵니다.
-색상 선택: 1번을 선택
-Please select a color scheme:
-1) dark
-2) dark_alternative
+그럼 다음과 같은 순서 대로 물어 물어 옵니다.  
+색상 선택: 1번을 선택  
+Please select a color scheme:  
+1) dark  
+2) dark_alternative  
 3) light  
 #? 1
 
-프로파일 선택: 1번을 선택
-Please select a Gnome Terminal profile:
+프로파일 선택: 1번을 선택  
+Please select a Gnome Terminal profile:  
 1) 이름 없음  
 #? 1
 
 You have selected:
 
-  Scheme:  dark
+  Scheme:  dark  
   Profile: 이름 없음 (b1dcc9dd-5262-4d8d-a863-c897e6d979b9)
 
-프로파일을 덮어쓰겠냐고 물으면 yes를 입력
-Are you sure you want to overwrite the selected profile?
-(YES to continue) yes
-Confirmation received -- applying settings
+프로파일을 덮어쓰겠냐고 물으면 yes를 입력  
+Are you sure you want to overwrite the selected profile?  
+(YES to continue) yes  
+Confirmation received -- applying settings  
 
 A dircolors adapted to solarized can be automatically downloaded.
 
